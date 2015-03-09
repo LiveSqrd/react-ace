@@ -1,5 +1,5 @@
 {
-  "name": "react-ace",
+  "name": "@lsq/react-ace",
   "version": "1.1.2",
   "description": "A react component for Ace Editor",
   "main": "index.js",
@@ -39,6 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/securingsincity/react-ace.git"
+    "url": "http://github.com/LiveSqrd/react-ace.git"
   }
 }
